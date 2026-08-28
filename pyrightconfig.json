@@ -1,0 +1,7 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "useLibraryCodeForTypes": true,
+  "diagnosticSeverityOverrides": {
+    "reportIncompatibleMethodOverride": "none"
+  }

@@ -1,0 +1,17 @@
+[project]
+name = "wythoph"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "vazpera",email = "jthoesel10@hotmail.com"}
+]
+requires-python = "==3.13.15"
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.dependencies]
+bpy = "^5.2.1"
+fake-bpy-module = "^20260827"
