@@ -1,5 +1,8 @@
 /target
 
+wythoph.git
+rust_core.so
+
 # Devenv
 .devenv*
 devenv.local.nix
